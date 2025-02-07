@@ -3,6 +3,8 @@
 #Project Overview ->
 Visa Navigator is a user-friendly portal designed to streamline the visa application process. It allows users to check visa requirements, apply online, and track applications seamlessly. The platform ensures a dynamic user interface, robust functionality, and an intuitive user experience.
 
+![Project Screenshot](./src/assets/visaNav.jpg)
+
 #Live Site URL -> https://sunflower-assignment10.web.app
 
 #Features
